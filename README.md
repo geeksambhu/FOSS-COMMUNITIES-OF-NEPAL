@@ -4,11 +4,6 @@ Listing all Free and Open Source Communities of NEPAL. This could be useful for 
 
 Do update this list by sending a PR and let's try to maintain the Alphabetical order.
 
-
-### Information included in the list below:
-- Community name
-- 
-
 <table class="table table-hover" border='1' style="text-align:centre;">
 <tr>
     <td>Name</td>
