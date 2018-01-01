@@ -1,37 +1,185 @@
-## Welcome to GitHub Pages
+## FOSS COMMUNITIES OF NEPAL
 
-You can use the [editor on GitHub](https://github.com/FOSSKavre/FOSS-COMMUNITIES-OF-NEPAL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Listing all Free and Open Source Communities of NEPAL. This could be useful for Colleges/Communities and institutions to invite them in their event or to participate in events organized by any FOSS Communities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do update this list by sending a PR and let's try to maintain the Alphabetical order.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information included in the list below:
+- Community name
+- 
 
-```markdown
-Syntax highlighted code block
+<table class="table table-hover" border='1' style="text-align:centre;">
+<tr>
+    <td>Name</td>
+    <td>Location</td>
+    <td>Established Year</td>
+    <td>Contact Person</td>
+    <td>Email</td>
+    <td>Online Links</td>
+</tr>
+<tr>
+    <td>
+    CHITWANIX COMMUNITY
+    </td>
+    <td>
+    Chitwan
+    </td>
+    <td>2013</td>
+    <td><a href="http://sagarchhetri.com.np">Sagar Chhetri</a></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>Distro Developers Nepal </td>
+    <td></td>
+    <td>2016</td>
+    <td><a href="http://sagarchhetri.com.np">Sagar Chhetri</a></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+  <td>FOSS CHITWAN</td>
+  <td>Chitwan</td>
+  <td>2008</td>
+  <td><a href="http://sagarchhetri.com.np">Sagar Chhetri</a></td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>FOSS Gaindakot</td>
+  <td>Gaindakot</td>
+  <td>2010</td>
+  <td><a href="http://sagarchhetri.com.np">Sagar Chhetri</a></td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+    <tr>
+  <td>FOSS Kavre</td>
+  <td>Banepa</td>
+  <td>2017</td>
+  <td><a href="https://github.com/sigdelsanjog">Sanjog Sigdel</a></td>
+  <td>Email</td>
+  <td><a href="fosskavre.techjhola.com">Fosskavre - Wiki</a></td>
+  </tr>
+  <tr>
+  <td>FOSS Lumbini</td>
+  <td>Location</td>
+  <td>Established Year</td>
+  <td>Contact Person</td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>FOSS MYAGDI</td>
+  <td>Location</td>
+  <td>Established Year</td>
+  <td>Contact Person</td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>FOSS NEPAL</td>
+  <td>Kathmandu</td>
+  <td>Established Year</td>
+  <td>Hempal Shrestha</td>
+  <td>Email</td>
+  <td><a href="wiki.fossnepal.org">wiki.fossnepal.org</a></td>
+  </tr>
+  <tr>
+  <td>FOSS OCEM</td>
+  <td>Location</td>
+  <td>Established Year</td>
+  <td>Contact Person</td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>FOSS POKHARA</td>
+  <td>Location</td>
+  <td>Established Year</td>
+  <td>Contact Person</td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>FOSS Ratnanagar</td>
+  <td>Location</td>
+  <td>2009</td>
+  <td><a href="http://sagarchhetri.com.np">Sagar Chhetri</a></td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>Indreni Open Source Club</td>
+  <td>Location</td>
+  <td>Established Year</td>
+  <td>Contact Person</td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>Kathford Foss Community</td>
+  <td>Kathford College, Kathmandu</td>
+  <td>2016</td>
+  <td>Dilip Thakur</td>
+  <td>Email</td>
+  <td>Online Links</td>
+  </tr>
+  <tr>
+  <td>Kathmandu University Open Source Community</td>
+  <td>Dhulikhel</td>
+  <td>2007</td>
+  <td><a href="https://github.com/sigdelsanjog">Sanjog Sigdel</a></td>
+  <td>kucc@ku.edu.np</td>
+  <td><a href="https://github.com/kucc1997">github.com/kucc1997</a></td>
+  </tr>
+<tr>
+  <td>Lumbini ICT OSK</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Mozilla Nepal</td>
+  <td>Kathmandu</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
+    <td>Nepal Open Source Club </td>
+  <td>Kathmandu</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Open Knowledge Nepal</td>
+  <td>Kathmandu</td>
+  <td>2016</td>
+  <td><a href="https://twitter.com/nikeshbalami">Nikesh Balami</a></td>
+  <td></td>
+  <td><a href="https://np.okfn.org/">np.okfn.org</a></td>
+  </tr>
+    <tr>
+  <td>OSM Nepal</td>
+  <td>Kathmandu</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Wikipedia Nepal</td>
+  <td>Kathmandu</td>
+  <td></td>
+  <td><a href="https://twitter.com/sarojdhakal">Saroj Dhakal</a></td>
+  <td></td>
+  <td><a href="http://ne.wikipedia.org/">ne.wikipedia.org</a></td>
+  </tr>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FOSSKavre/FOSS-COMMUNITIES-OF-NEPAL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</table>
