@@ -141,11 +141,11 @@ Do update this list by sending a PR and let's try to maintain the Alphabetical o
   <td>Mozilla Nepal</td>
   <td>Kathmandu</td>
   <td></td>
+  <td>Avask Mulmi</td>
   <td></td>
-  <td></td>
-  <td></td>
+    <td><a href="http://mozilla-nepal.org">mozilla-nepal.org</a></td>
   </tr>
-    <td>Nepal Open Source Club </td>
+    <td>Nepal Open Source Club (NOSK)</td>
   <td>Kathmandu</td>
   <td></td>
   <td></td>
@@ -157,16 +157,16 @@ Do update this list by sending a PR and let's try to maintain the Alphabetical o
   <td>Kathmandu</td>
   <td>2016</td>
   <td><a href="https://twitter.com/nikeshbalami">Nikesh Balami</a></td>
-  <td></td>
-  <td><a href="https://np.okfn.org/">np.okfn.org</a></td>
+  <td>info@okn.org</td>
+  <td><a href="http://oknp.org">np.okfn.org</a></td>
   </tr>
     <tr>
   <td>OSM Nepal</td>
   <td>Kathmandu</td>
   <td></td>
+  <td>Nama Raj Budathoki</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>http://kathmandulivinglabs.org</td>
   </tr>
   <tr>
   <td>Wikipedia Nepal</td>
@@ -176,5 +176,28 @@ Do update this list by sending a PR and let's try to maintain the Alphabetical o
   <td></td>
   <td><a href="http://ne.wikipedia.org/">ne.wikipedia.org</a></td>
   </tr>
-
+    <tr>
+  <td>Wordpress Nepal</td>
+  <td>Kathmandu</td>
+  <td></td>
+  <td>Suvash Khadka</td>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>GDG Kathmandu</td>
+  <td>Kathmandu</td>
+  <td></td>
+  <td>Bhupal Sapkota</td>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Robotic Association of Nepal</td>
+  <td>Kathmandu</td>
+  <td></td>
+  <td>Bikash Gurung</td>
+  <td></td>
+  <td></td>
+  </tr>
 </table>
