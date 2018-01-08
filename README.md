@@ -114,12 +114,12 @@ Do update this list by sending a PR and let's try to maintain the Alphabetical o
   <td>Online Links</td>
   </tr>
   <tr>
-  <td>Kathford Foss Community</td>
+  <td>Kathford FOSS Community</td>
   <td>Kathford College, Kathmandu</td>
-  <td>2016</td>
+  <td>2015</td>
   <td>Dilip Thakur</td>
-  <td>Email</td>
-  <td>Online Links</td>
+  <td>kathfoss@kathford.edu.np</td>
+  <td><a href="https://kathfoss.github.io">kathfoss</a></td>
   </tr>
   <tr>
   <td>Kathmandu University Open Source Community</td>
